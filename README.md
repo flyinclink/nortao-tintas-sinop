@@ -8,7 +8,7 @@ Página única em HTML/CSS/JS puro, sem build: é só abrir o `index.html`.
 
 - `index.html`: a página inteira (estilos e scripts no próprio arquivo)
 - `img/lata.webp`: lata Nortão Color com o filete de tinta até o rodapé (1024 × 3012, fundo transparente)
-- `img/fachada.jpg`: fachada da loja (ainda é a foto de Sorriso: trocar pela de Sinop)
+- `img/fachada.jpg`: fachada da loja de Sinop (recorte da foto vertical, com o painel azul em destaque)
 - `img/marcas/`: logos do carrossel de marcas
 - `img/clientes/`: fotos da prova social
 - `img/rolo.svg`: pincelada de rolo usada no fundo
